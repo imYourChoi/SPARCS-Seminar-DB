@@ -1,0 +1,7 @@
+div.counter {
+    display: flex;
+}
+
+div.counter > * {
+    margin-right: 10px;
+}

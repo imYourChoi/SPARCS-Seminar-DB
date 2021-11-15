@@ -1,0 +1,10 @@
+.todo {
+  max-width: 360px;
+  margin: 0 auto;
+}
+.todo-add-row {
+  display: flex;
+}
+.todo-add-row > input {
+  flex-grow: 1;
+}
